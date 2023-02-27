@@ -26,7 +26,7 @@ Usage <br/>
 To run the code, simply run the optuna_keras.py script:
 
 ```
-python optuna_nested_cv.py
+python Nested_CV_Optuna.ipynb
 ```
 
 The script will start the hyperparameter optimization process using Optuna. After the optimization is complete, the script will print the optimal hyperparameters and their score.
